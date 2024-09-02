@@ -6,7 +6,7 @@ I'm a passionate **Computer Engineering student** at the **Arab Academy for Scie
 
 ### 💻 About Me:
 - 🎮 Besides coding, I love to play **action-adventure** and **puzzle video games**.
-- ⚽ I'm also a **HardCore Fc Ultimate Team player** 🏆.
+- ⚽ I'm also a **skilled FC Ultimate Team player** 🏆.
 - 👨‍💻 I enjoy coding because it’s not just about writing lines of code; it’s about solving problems in creative ways.
   
 ---
