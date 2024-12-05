@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Mohamed Hesham 👨‍💻
 
-I'm a passionate **Computer Engineering student** at the **Arab Academy for Science, Technology & Maritime Transport (AAST)**. I love to dive into code and solve problems using my creativity.
+I'm a passionate **Computer Engineering student** at the **Arab Academy for Science, Technology & Maritime Transport (AAST)**. I love to dive into code and solve problems.
 
 ---
 
