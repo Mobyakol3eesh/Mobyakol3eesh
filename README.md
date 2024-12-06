@@ -12,7 +12,7 @@ I'm a passionate **Computer Engineering student** at the **Arab Academy for Scie
 ---
 
 ### 🛠️ Technologies & Tools:
-- **Languages**: Java, C#, C, JavaScript, TypeScript, VHDL
+- **Languages**: Java, Python, C#, C, JavaScript, TypeScript, VHDL
 - **Frontend**: HTML5, CSS3, SASS
 - **Frameworks**: JavaFX, WPF, Angular, MongoDb, Express.js, BootStrap, 
 
